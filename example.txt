@@ -1,0 +1,105 @@
+PAST TENSE
+Definition :- Past tense is a grammatical tense that indicates actions, events, or states that have occurred or were completed in the past. 
+		In English, verbs typically change form to indicate past tense, often by adding "-ed" to the base form of regular verbs (e.g., "walked," "talked," "played"). 
+		
+		The past tense is used to narrate or describe actions, events, or states that took place before the present moment or within a specific time frame in the past.
+Example's :-Past tense: "She sang beautifully."
+		
+		Past tense: "He ate dinner at 7 PM."
+		
+		
+Types of Past Tense :- 
+
+1. **Simple Past Tense**: Used to describe actions or events that occurred and were completed at a specific time in the past. 
+				  For example: "She walked to the store yesterday."
+
+2. **Past Continuous Tense**: Describes actions or events that were ongoing or in progress at a specific moment in the past. 
+					It's formed by using the past tense of the verb "to be" (was/were) and the present participle (-ing form) of the main verb.
+					For example: "They were playing soccer when it started to rain."
+
+3. **Past Perfect Tense**: Used to describe an action that happened before another action or event in the past. 
+				   It's formed by using the past tense of the verb "to have" (had) and the past participle of the main verb. 
+				   For example: "She had already finished her homework when her friends arrived."
+
+(-)4. **Past Perfect Continuous Tense**: Describes actions or events that were ongoing or in progress over a period of time before another action or event in the past. 
+						  It's formed by using the past perfect tense of the verb "to have" (had) followed by "been" and the present participle (-ing form) of the main verb. 
+						  For example: "He had been studying for hours before he finally understood the lesson."
+PRESENT TENSE
+Definition :- Present tense is a grammatical tense that indicates actions, events, or states that are currently occurring, habitual, or generally true. 
+		  In English, verbs in present tense often take the base form (e.g., "walk," "talk," "play"), with conjugations that may vary depending on the subject. 
+ 		  Present tense is used to describe actions happening now, habitual actions, general truths, or future actions scheduled to occur.
+Example's :-
+		Of course! Here are ten more examples of sentences in present tense:
+
+		1. She teaches English at the local school.
+2. They play basketball every Saturday afternoon.
+3. He eats breakfast at 8 AM every day.
+4. The sun rises in the east and sets in the west.
+5. The cat sleeps on the windowsill.
+6. I love listening to music in my free time.
+7. We go for a walk in the park every evening.
+8. It rains frequently during the spring season.
+9. Birds chirp early in the morning.
+10. The train arrives at the station at 9:30 AM.
+
+Types of Present Tense :-
+In English, there are primarily four types of present tense:
+
+1. **Simple Present Tense**: Describes actions that are habitual, routine, or generally true. 
+				     It's formed using the base form of the verb. 
+				     For example: "She reads books every day."
+
+2. **Present Continuous Tense**: Describes actions that are currently happening at the moment of speaking. 
+					   It's formed using the present tense of the verb "to be" (am/is/are) followed by the present participle (-ing form) of the main verb. 
+					   For example: "They are playing soccer right now."
+
+3. **Present Perfect Tense**: Describes actions that happened at an unspecified time in the past but have relevance to the present. 
+					It's formed using the present tense of the verb "to have" (have/has) followed by the past participle of the main verb. 
+					For example: "I have visited Paris several times."
+
+4. **Present Perfect Continuous Tense**: Describes actions that started in the past and are still ongoing, or actions that have just stopped but still have relevance to the present. 
+						     It's formed using the present perfect tense of the verb "to have" (have/has) followed by "been" and the present participle (-ing form) of the main verb. 
+						     For example: "She has been studying for two hours."
+FUTURE TENSE :-
+Definition:- The future tense is a grammatical form used to indicate actions, events, or states that will occur or exist at a time after the current moment. 
+		 It is used to talk about things that haven't happened yet but are anticipated to happen in the future. 
+		 In English, the future tense is often formed using auxiliary verbs such as "will" or "shall" followed by the base form of the main verb. 
+		 Additionally, other constructions like "going to" or present progressive tense can also be used to express future actions or events. 
+		 The future tense allows speakers and writers to discuss plans, intentions, predictions, or expectations about what will happen later on.
+Example's :-
+Certainly, here are some examples of sentences in the future tense:
+
+1. I will finish my homework later tonight.
+2. They will travel to Europe next month.
+3. She will start her new job next Monday.
+4. By this time next year, we will have moved to a new house.
+5. He will call you as soon as he arrives.
+6. Tomorrow, the sun will rise in the east.
+7. They will attend the conference next week.
+8. By the time you return, I will have completed the project.
+9. We will go hiking in the mountains next weekend.
+10. She will graduate from college in June.
+Types of Future Tense :-
+In English, there are several ways to express the future tense. The main forms include:
+
+1. *Simple Future Tense:* Formed by using the auxiliary verb "will" or "shall" followed by the base form of the main verb. 
+   				For example:- I will study for the exam tomorrow.
+   						- She shall arrive at 8 PM.
+   						
+
+2. *Future Continuous Tense:* Formed by using the auxiliary verb "will be" or "shall be" followed by the present participle (verb + "-ing"). 
+					For example:- They will be waiting for you when you arrive.
+   							- Tomorrow at this time, I shall be flying to Paris.
+   							
+
+3. *Future Perfect Tense:* Formed by using the auxiliary verb "will have" or "shall have" followed by the past participle of the main verb. 
+				   For example:- By next summer, he will have graduated from university.
+   						   - They shall have finished their meal by the time we arrive.
+   						   
+
+4. *Future Perfect Continuous Tense:* Formed by using the auxiliary verb "will have been" or "shall have been" followed by the present participle (verb + "-ing"). 
+						  For example:- By the end of the month, she will have been working here for five years.
+   								  - I shall have been waiting for you for an hour by the time you arrive.
+   								  
+
+These are the primary forms used to express future actions or events in English.
