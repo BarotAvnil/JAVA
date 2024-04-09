@@ -6,7 +6,7 @@ public class Lab3_4 {
         System.out.print("Enter Number = ");
         int n = sc.nextInt();
         if (n == 1) {
-            System.out.println("It is a number " + n);
+            System.out.println(n + "It is a prime number ");
             sc.close();
             return;
         }
