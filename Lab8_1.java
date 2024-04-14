@@ -12,7 +12,7 @@ public class Lab8_1
             }
             else if (a == 0 || b == 0) {
                 System.out.println("Multiplication by zero is not allowed");
-                throw new MyException("multiplication by zero is not allowed");
+                throw new MyException("Invalid Input Zero Is Not Alloweded");
             }
             else if (b<0) {
                 System.out.println(b+" is negative");

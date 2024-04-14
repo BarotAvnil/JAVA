@@ -7,6 +7,7 @@ class A extends Thread {
             try {
                 sleep(1000);
             } catch (Exception e) {
+            
             }
         }
     }
@@ -19,6 +20,7 @@ class B extends Thread {
             try {
                 sleep(1000);
             } catch (Exception e) {
+                
             }
         }
     }

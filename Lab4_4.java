@@ -11,6 +11,7 @@ public class Lab4_4 {
             System.out.print("Enter Element :");
             arr[i]=sc.nextInt();
         }
+        
         for(int i=n-1;i>=0;i--)
         {
             System.out.println("Reverse Order : "+arr[i]);

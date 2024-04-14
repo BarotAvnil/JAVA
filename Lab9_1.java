@@ -18,7 +18,7 @@ class Morning implements Runnable {
                 System.out.println("Good Morning");
                 Thread.sleep(1000);
             } catch (Exception e) {
-    
+                System.out.println("Exception ="+ e);
             }    
         }
         
@@ -35,7 +35,7 @@ class Afternoon implements Runnable {
                 Thread.sleep(3000);
             } 
             catch (Exception e) {
-    
+                System.out.println("Exception ="+ e);
             }    
         }
         
