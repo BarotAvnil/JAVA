@@ -2,5 +2,8 @@
 *.class
 example.txt
 *.pdf
+<<<<<<< HEAD
 Lab Manual.pdf
 hello
+=======
+>>>>>>> 91f431eb65e50256f182573e38acf446ed56066d
