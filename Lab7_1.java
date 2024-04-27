@@ -1,40 +1,10 @@
-/**
- * Lab7_1
- */
+
 abstract class Vegetable{
     String name;
     String color;
-    // Vegetable(String color){
-    //     this.color = color;
-    // }
     abstract public String toString();
-    //  public String toString(){
-    //     return "Vegetable : " + getClass().getSimpleName() + ", Color : " + this.color;
-    //  }
-
+   
 }
-
-// class Potato extends Vegetable{
-//     Potato(String color){
-//         super(color);
-
-//     }
-// }
-
-// class Brinjal extends Vegetable{
-//     Brinjal(String color){
-//         super(color);
-        
-//     }
-// }
-
-// class Tomato extends Vegetable{
-//     Tomato(String color){
-//         super(color);
-        
-//     }
-// }
-
 class Potato extends Vegetable{
     Potato(){
         super.color = "Brown";
