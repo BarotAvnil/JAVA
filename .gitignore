@@ -1,4 +1,4 @@
-# Ignore all.class files
+# Ignore all.class files                
 *.class
 example.txt
 *.pdf
